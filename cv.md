@@ -16,3 +16,26 @@ I am 30 years old and I used to work as a sales engineer. Currently I decided to
 * JavaScript (_in progress_)
 * Adobe Photoshop (_beginer_)
 ---
+### Code example
+
+```
+function multiply(a, b){
+ return a * b
+}
+```
+---
+### Work experience
+* **ALFA LAVAL** - Sales engineer
+* **Yokogawa Electric CIS, LLC** - Sales engineer
+* **Tecsa, LLC** - Project manager
+
+---
+### Education and courses
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
+* Gubkin Russian State University of Oil and Gas, Moscow
+* Astrakhan State Technical University, Astrakhan
+---
+### Languages
+Russian — Native
+English — B1 — Intermediate
+Japanese — A1 — Basic
