@@ -1,1 +1,1 @@
-https://GITHUB-MurkyFox.github.io/rsschool-cv/cv
+https://MurkyFox.github.io/rsschool-cv/cv
