@@ -7,3 +7,12 @@
 * **Telegramm:** @u_sergeev
 * **Discord:** Murky \#8912
 ---
+### About myself
+I am 30 years old and I used to work as a sales engineer. Currently I decided to change my career and become a front-end developer. That is why I am here and studying in RSSchool.
+
+---
+###Skills
+* Git/GitHub (_in progress_)
+* JavaScript (_in progress_)
+* Adobe Photoshop (_beginer_)
+---
