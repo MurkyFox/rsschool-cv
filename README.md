@@ -1,1 +1,1 @@
-# rsschool-cv
+https://GITHUB-MurkyFox.github.io/rsschool-cv/cv
