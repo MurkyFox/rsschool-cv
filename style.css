@@ -88,6 +88,11 @@
     align-content: center;
   }
 
+  .section-title {
+    margin-top: 0;
+    color: rgba(78, 7, 7);
+  }
+
   .avatar {
     width: 250px;
     height: 250px;
